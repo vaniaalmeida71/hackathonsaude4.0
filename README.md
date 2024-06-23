@@ -1,11 +1,12 @@
 # hackathonsaude4.0
 Entregáveis para avaliação do Hackathon Saúde 4.0
 
-Site criado em Low code: https://prontunico.wixsite.com/pront
+Senhores avalidadores, segue link para acesso ao site criado em Low code: https://prontunico.wixsite.com/pront
 
 Acesso ao protótipo funcional do Portal do Pront.Único: Prontuário unificado.
+Também encontra-se disponível o código-fonte em "index.js". 
 
-Com o portal haverá acesso as principais funcionabilidades do projeto, acesso a prontuário e exames fictícios e mais.
+Com o portal haverá acesso as principais funcionabilidades do projeto voltado tanto a equipe médica quanto ao usuário, acesso a prontuário e exames fictícios e mais.
 
 Equipe:
 
